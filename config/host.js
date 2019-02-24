@@ -1,0 +1,1 @@
+export const ydtest = "ydtest.wps.cn"
